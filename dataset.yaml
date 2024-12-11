@@ -1,0 +1,6 @@
+
+    train: C:\Users\Chaplin\PycharmProjects\PythonProject1\dish_images
+    val: C:\Users\Chaplin\PycharmProjects\PythonProject1\dish_images
+    nc: 1
+    names: ['bludo']
+    

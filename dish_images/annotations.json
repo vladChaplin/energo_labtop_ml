@@ -1,0 +1,35 @@
+{
+    "info": {
+        "description": "Dataset for food recognition",
+        "year": 2024
+    },
+    "images": [
+        {
+            "id": 1,
+            "file_name": "IMG_8932.JPG",
+            "width": 5472,
+            "height": 3648
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "bludo"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1,
+            "image_id": 1,
+            "category_id": 1,
+            "bbox": [
+                2233,
+                955,
+                1129,
+                1819
+            ],
+            "area": 2053651,
+            "iscrowd": 0
+        }
+    ]
+}
